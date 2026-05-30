@@ -36,8 +36,4 @@ A beautiful weather dashboard that shows real-time weather and 5-day forecast fo
 **Aneela**
 
 ## Live Demo
-[View Live Demo](https://yourusername.github.io/weather-dashboard)
-
----
-
-*Note: Replace `yourusername` with your actual GitHub username after publishing.*
+[View Live Demo](https://aneela-majeed.github.io/weather-dashboard/)
